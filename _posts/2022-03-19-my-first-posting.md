@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title: "my first postintg"
 subtitle: "오픈소스SW 실습"
